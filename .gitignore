@@ -1,0 +1,7 @@
+## compile~
+META-INF/
+*.class
+
+## osx
+.DS_Store
+
